@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.menu{
+    background-color: black;
+    color: white;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+.menu li:hover{
+    color: pink;
+}
