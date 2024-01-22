@@ -1,0 +1,7 @@
+.first{
+    font-style: italic;
+    border: 3px dotted blue;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
